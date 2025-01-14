@@ -1,0 +1,15 @@
+/* .removePadding {
+  padding: 0px !important;
+ }
+
+ .MuiButton-outlined {
+  padding: 0px !important;
+ } */
+
+ /* .removeUpDownArrow{
+  
+ } */
+textarea:focus{
+  font-style: roboto;
+    outline-width: 0;
+}
